@@ -81,6 +81,10 @@
 			<id>nexus-releases</id>
 			<url>http://localhost:8081/repository/maven-releases/</url>
 		</repository>
+		<site>
+			<id>nexus-academy-site</id>
+			<url>dav:http://localhost:8081/repository/academy-site/</url>
+		</site>
 	</distributionManagement>
 
 	<scm>
