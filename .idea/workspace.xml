@@ -3,10 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="09d8d251-eff4-41de-a2e4-acd87edf8995" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-audit-interface/academy-audit-interface.iml" afterPath="$PROJECT_DIR$/academy-audit-interface/academy-audit-interface.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-courses/academy-courses.iml" afterPath="$PROJECT_DIR$/academy-courses/academy-courses.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-student-integration/academy-student-integration.iml" afterPath="$PROJECT_DIR$/academy-student-integration/academy-student-integration.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-user-details-interface/academy-user-details-interface.iml" afterPath="$PROJECT_DIR$/academy-user-details-interface/academy-user-details-interface.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-audit-integration/pom.xml" afterPath="$PROJECT_DIR$/academy-audit-integration/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-audit-interface/pom.xml" afterPath="$PROJECT_DIR$/academy-audit-interface/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-audit-repository/pom.xml" afterPath="$PROJECT_DIR$/academy-audit-repository/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-audit/pom.xml" afterPath="$PROJECT_DIR$/academy-audit/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-courses-integration/pom.xml" afterPath="$PROJECT_DIR$/academy-courses-integration/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-courses-interface/pom.xml" afterPath="$PROJECT_DIR$/academy-courses-interface/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-courses-repository/pom.xml" afterPath="$PROJECT_DIR$/academy-courses-repository/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-courses/pom.xml" afterPath="$PROJECT_DIR$/academy-courses/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-registration-integration/pom.xml" afterPath="$PROJECT_DIR$/academy-registration-integration/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-registration-interface/pom.xml" afterPath="$PROJECT_DIR$/academy-registration-interface/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-registration-repository/pom.xml" afterPath="$PROJECT_DIR$/academy-registration-repository/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-registration/pom.xml" afterPath="$PROJECT_DIR$/academy-registration/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-shared/pom.xml" afterPath="$PROJECT_DIR$/academy-shared/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-student-integration/pom.xml" afterPath="$PROJECT_DIR$/academy-student-integration/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-student-interface/pom.xml" afterPath="$PROJECT_DIR$/academy-student-interface/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-student/pom.xml" afterPath="$PROJECT_DIR$/academy-student/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-user-details-integration/pom.xml" afterPath="$PROJECT_DIR$/academy-user-details-integration/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-user-details-interface/pom.xml" afterPath="$PROJECT_DIR$/academy-user-details-interface/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-user-details-repository/pom.xml" afterPath="$PROJECT_DIR$/academy-user-details-repository/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-user-details/pom.xml" afterPath="$PROJECT_DIR$/academy-user-details/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-utils/pom.xml" afterPath="$PROJECT_DIR$/academy-utils/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academy-web/pom.xml" afterPath="$PROJECT_DIR$/academy-web/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/academy-student/target/" />
@@ -44,14 +62,55 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="88" column="21" lean-forward="false" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+            <state relative-caret-position="158">
+              <caret line="89" column="4" lean-forward="false" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/academy-student-integration/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/academy-audit/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/academy-audit-integration/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2.0.6-RELEASE</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2.0.6-SNAPSHOT</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -65,6 +124,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/academy-audit-integration/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -125,6 +185,11 @@
             <path>
               <item name="academy-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="teaching-academy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="academy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teaching-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="academy-audit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,26 +343,33 @@
       <option name="project" value="LOCAL" />
       <updated>1566736753010</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Try and error to see problem with the provider as for plugin error">
+      <created>1566738545392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566738545392</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1981402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36275697" sideWeight="0.49570817" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1881259" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -309,7 +381,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -566,10 +637,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/academy-student-integration/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/academy-audit-integration/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/academy-audit/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="88" column="21" lean-forward="false" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        <state relative-caret-position="158">
+          <caret line="89" column="4" lean-forward="false" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
           <folding />
         </state>
       </provider>
