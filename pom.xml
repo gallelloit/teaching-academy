@@ -84,9 +84,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:ssh://git@github.com:pgbonino/teaching-academy.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:pgbonino/teaching-academy.git</developerConnection>
-		<url>scm:git:ssh://git@github.com:pgbonino/teaching-academy.git</url>
+		<connection>scm:git://git@github.com:pgbonino/teaching-academy.git</connection>
+		<developerConnection>scm:git://git@github.com:pgbonino/teaching-academy.git</developerConnection>
+		<url>scm:git://git@github.com:pgbonino/teaching-academy.git</url>
 	  <tag>v2.0.6-RELEASE</tag>
   </scm>
 
