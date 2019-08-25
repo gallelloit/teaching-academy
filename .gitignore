@@ -72,3 +72,6 @@ local.properties
 
 # STS (Spring Tool Suite)
 .springBeans
+
+#IntelliJ IDEA Core
+.idea/
