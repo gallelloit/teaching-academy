@@ -124,7 +124,7 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-release-plugin</artifactId>
-					<version>LATEST</version>
+					<version>2.5.3</version>
 					<configuration>
 						<tagNameFormat>v@{project.version}</tagNameFormat>
 						<autoVersionSubmodules>true</autoVersionSubmodules>
@@ -339,7 +339,7 @@
 				<plugins>
 					<plugin>
 						<artifactId>maven-failsafe-plugin</artifactId>
-						<version>2.18.1</version>
+						<version>2.15</version>
 						<executions>
 							<execution>
 								<goals>
