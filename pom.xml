@@ -73,10 +73,20 @@
 
 	<distributionManagement>
 		<snapshotRepository>
-			<id>snapshots</id>
+			<id>nexus-snapshots</id>
 			<url>http://localhost:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
+		<repository>
+			<id>nexus-releases</id>
+			<url>http://localhost:8081/repository/maven-releases/</url>
+		</repository>
 	</distributionManagement>
+
+	<scm>
+		<connection>scm:git@github.com:pgbonino/teaching-academy.git</connection>
+		<developerConnection>scm:git@github.com:pgbonino/teaching-academy.git</developerConnection>
+		<url>scm:git@github.com:pgbonino/teaching-academy.git</url>
+	</scm>
 
 	<build>
 		<pluginManagement>
@@ -110,6 +120,16 @@
 						</dependency>
 					</dependencies>
 				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-release-plugin</artifactId>
+					<version>LATEST</version>
+					<configuration>
+						<tagNameFormat>v@{project.version}</tagNameFormat>
+						<autoVersionSubmodules>true</autoVersionSubmodules>
+					</configuration>
+
+				</plugin>
 			</plugins>
 		</pluginManagement>
 	</build>
@@ -142,7 +162,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-javadoc-plugin</artifactId>
-				<version>2.10.3</version>
+				<version>2.10.4</version>
 			</plugin>
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
@@ -318,7 +338,7 @@
 				<plugins>
 					<plugin>
 						<artifactId>maven-failsafe-plugin</artifactId>
-						<version>2.15</version>
+						<version>2.18.1</version>
 						<executions>
 							<execution>
 								<goals>
